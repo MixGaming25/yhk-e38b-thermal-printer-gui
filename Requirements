@@ -1,0 +1,4 @@
+Pillow>=9.2
+# Optional: only needed for BLE mode
+bleak>=0.21
+ 
