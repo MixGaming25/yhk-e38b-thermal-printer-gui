@@ -1,5 +1,12 @@
 # YHK-E38B Thermal Printer GUI
 
+![Platform](https://img.shields.io/badge/Platform-Linux%20(BlueZ)-E95420?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square)
+![UI](https://img.shields.io/badge/UI-Tkinter%20(Metro%20Style)-0078D7?style=flat-square)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-Classic%20SPP%20%7C%20BLE-0082FC?style=flat-square)
+![Hardware](https://img.shields.io/badge/Printer-YHK--E38B%20(58mm%20ESC%2FPOS)-2EA44F?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-555555?style=flat-square)
+
 A Windows 8 "Metro" style desktop app for the **YHK-E38B mini Bluetooth thermal printer**, written in Python and Tkinter for Linux.
 
 ![YHK-E38B Thermal Printer GUI](Pictures/screenshot.png)
